@@ -1,0 +1,14 @@
+.greet{
+  margin-top: 20px;
+  border: 2px solid rgb(157, 190, 171);
+  text-align: center;
+  width: 30%;
+
+}
+.app{
+  display: flex;
+  justify-content: center; /* Horizontally center content */
+  align-items: center; 
+}
+
+

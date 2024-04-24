@@ -1,0 +1,32 @@
+ /* Link{
+  text-decoration: none;
+  padding: 10px;
+  margin: 10px;
+} */
+
+.nav{
+  text-align: right;
+  text-decoration: none;
+  margin-right: 25px;
+}
+.nav li {
+  display: inline-block;
+  padding: 10px 5px;
+
+ 
+}
+.nav-bar{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.nav-bar:hover{
+  color: green;
+}
+
+/* Active link */
+
+.nav .active{
+  color: aqua;
+}

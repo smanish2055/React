@@ -1,0 +1,10 @@
+.contain{
+  display: flex;
+
+}
+/* .main{
+  display: flex;
+} */
+.contain h3,h4,h5{ 
+  padding: 20px;
+}
